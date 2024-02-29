@@ -1,2 +1,4 @@
-# goitneo-python-hw-2-group-7
-GoIt python home work 2
+# GoIt python home work 2
+
+## contacts_helper.py
+- Contacts assistant bot module
