@@ -1,4 +1,19 @@
 # GoIt python home work 2
 
-## contacts_helper.py
-- Contacts assistant bot module
+## main.py
+- Entry point
+
+## cmd_handler.py
+- Commands handler module
+
+## exceptoins_handler.py
+- Exceptions handler
+
+## controllers.py
+- Main Controllers
+
+### Testing
+run test
+```
+  python controllers.py
+```
